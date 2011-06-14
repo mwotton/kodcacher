@@ -1,6 +1,6 @@
 source :gemcutter
 gem 'sinatra', '>=1.1.2'
-
+gem 'httparty'
 group :development do
   gem 'sqlite3'
 end
